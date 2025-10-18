@@ -1,0 +1,3 @@
+[submodule "esp-at"]
+	path = esp-at
+	url = https://github.com/espressif/esp-at.git
